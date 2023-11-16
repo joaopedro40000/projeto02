@@ -1,0 +1,16 @@
+ .cabeçalho
+    background-color:green;
+    color:
+}
+.principal{
+    background-color:  yellow;
+    color:black;
+}
+.rodape{
+    background-color:black;
+    color:mediumslateblue;
+    text-align: center;
+}
+#messicareca{
+    width: 600px;
+}

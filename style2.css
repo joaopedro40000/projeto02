@@ -1,0 +1,17 @@
+.cabeçalho
+{ background-color: lightgreen;
+color:darkblue;
+}
+.principal{
+background-color:  yellow;
+color:black;
+}
+.rodape{
+background-color:black;
+color:red;
+text-align: center;
+}
+
+#MessiCareca{
+width: 600px;
+}
